@@ -1,0 +1,13 @@
+text,sentiment
+I love this movie,Positive
+This movie is amazing,Positive
+I enjoyed the film,Positive
+The movie is excellent,Positive
+I hate this movie,Negative
+This movie is boring,Negative
+The film is terrible,Negative
+I dislike this movie,Negative
+Amazing acting and great story,Positive
+Worst movie ever,Negative
+Very good film,Positive
+Bad acting and boring story,Negative
